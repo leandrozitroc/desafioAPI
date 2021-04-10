@@ -18,6 +18,6 @@ REQUISITOS
 
 Rotas
 
-GET - http://localhost:3333/comprar
+GET - http://localhost:3000/comprar
 POST - http://localhost:3000/comprar 
 
