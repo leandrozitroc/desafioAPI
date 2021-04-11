@@ -15,8 +15,8 @@ const app = Appcontroller.express
 
 lib.Configuration.apiToken = `${process.env.PIPEDRIVE_API_KET}`;
 
-app.listen(process.env.PORT || 1800)
-app.listen(process.env.PORT || 3000)
+app.listen(1800)
+app.listen(3000)
 
 
 export default new Server();
