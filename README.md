@@ -21,3 +21,9 @@ Rotas
 GET - http://localhost:3000/comprar
 POST - http://localhost:3000/comprar 
 
+# Start
+
+Start
+
+ts-node server.ts
+
